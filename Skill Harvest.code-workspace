@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Documents/SH"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "SH"
+	}
+}
